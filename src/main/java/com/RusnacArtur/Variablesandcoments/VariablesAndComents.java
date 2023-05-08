@@ -20,7 +20,7 @@ public class VariablesAndComents {
         double lowerLimitOfDoubleDataType;
         double upperLimitOfDoubleDataType;
 
-        // Initialization of the above variables
+        // Initialization of the Above Variables
 
         falseBoleanVariable = false;
         trueBooleanVariable = true;
